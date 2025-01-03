@@ -1,0 +1,15 @@
+header ul {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  background-color: lightblue;
+  padding: 20px;
+  /* list-style: none; */
+}
+header li {
+  /* display: block; */
+  display: inline-block;
+  padding: 14px;
+  border-radius: 10px;
+  background-color: orange;
+}
